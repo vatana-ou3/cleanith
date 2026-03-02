@@ -79,13 +79,13 @@ Open three terminal windows:
 
 **Terminal 1: Frontend**
 ```bash
-pnpm dev
+npm run dev
 # Opens http://localhost:3000
 ```
 
 **Terminal 2: Backend**
 ```bash
-cd server && pnpm dev
+cd server && npm run dev
 # Runs on http://localhost:5000
 ```
 

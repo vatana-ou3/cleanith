@@ -19,7 +19,7 @@ function useReveal(delay = 0) {
 const team = [
   { name: "Pov Yanghai",     role: "UI/UX Designer",     initials: "PY" },
   { name: "Khean SievLinh",  role: "Frontend Developer", initials: "KS" },
-  { name: "Ouk Vatana",      role: "Backend Developer",  initials: "OV" },
+  { name: "Ouk Vatana",      role: "ML engineer & Backend",  initials: "OV" },
   { name: "Soy Dycheny",     role: "Data Engineer",      initials: "SD" },
   { name: "Deng Rithypanha", role: "ML Engineer",        initials: "DR" },
 ];
@@ -27,7 +27,7 @@ const team = [
 const avatarColors = [
   { bg: "#1e3a5f", text: "#60a5fa", ring: "rgba(96,165,250,0.35)",  glow: "rgba(59,130,246,0.25)"  },
   { bg: "#2d1b4e", text: "#a78bfa", ring: "rgba(167,139,250,0.35)", glow: "rgba(139,92,246,0.25)"  },
-  { bg: "#4a1930", text: "#fb7185", ring: "rgba(251,113,133,0.35)", glow: "rgba(244,63,94,0.25)"   },
+  { bg: "#4a1930", text: "#34d399", ring: "rgba(251,113,133,0.35)", glow: "rgba(244,63,94,0.25)"   },
   { bg: "#3d2c0a", text: "#fbbf24", ring: "rgba(251,191,36,0.35)",  glow: "rgba(245,158,11,0.25)"  },
   { bg: "#0d3326", text: "#34d399", ring: "rgba(52,211,153,0.35)",  glow: "rgba(16,185,129,0.25)"  },
 ];
